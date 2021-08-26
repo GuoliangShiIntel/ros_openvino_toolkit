@@ -1,0 +1,2 @@
+set(object_msgs_MESSAGE_FILES "/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/msg/Object.msg;/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/msg/Objects.msg;/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/msg/ObjectInBox.msg;/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/msg/ObjectsInBoxes.msg")
+set(object_msgs_SERVICE_FILES "/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/srv/ClassifyObject.srv;/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/srv/DetectObject.srv")

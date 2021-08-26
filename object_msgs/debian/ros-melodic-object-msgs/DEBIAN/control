@@ -1,0 +1,9 @@
+Package: ros-melodic-object-msgs
+Version: 0.3.0-0bionic
+Architecture: amd64
+Maintainer: Xiaojun Huang <xiaojun.huang@intel.com>
+Installed-Size: 485
+Depends: ros-melodic-message-runtime, ros-melodic-sensor-msgs, ros-melodic-std-msgs
+Section: misc
+Priority: optional
+Description: This package defines messages for object detection
