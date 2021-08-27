@@ -1,8 +1,0 @@
-prefix=/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/obj-x86_64-linux-gnu/devel
-
-Name: object_msgs
-Description: Description of object_msgs
-Version: 0.3.0
-Cflags: -I/home/sgl/Github/catkin_wa/src/OV_test/object_msgs/obj-x86_64-linux-gnu/devel/include
-Libs: -L${prefix}/lib 
-Requires: std_msgs sensor_msgs message_runtime
